@@ -1,0 +1,31 @@
+lng_terminal,status,info,lat,lng,capacity,owner
+"Kenai, AK",Existing ,0.2 Bcfd (Trans-Foreland),60.5544444,-151.258333,0.2 Bcfd ,Trans-Foreland
+"Sabine, LA",Existing , 4.55 Bcfd (Cheniere/Sabine Pass LNG – Trains 1-6),31.5223049,-93.5265161, 4.55 Bcfd ,Cheniere/Sabine Pass LNG – Trains 1-6
+"Cove Point, MD",Existing , 0.82 Bcfd (Dominion–Cove Point LNG),38.382374,-76.3888518305277, 0.82 Bcfd ,Dominion–Cove Point LNG
+"Corpus Christi, TX",Existing , 2.40 Bcfd (Cheniere – Corpus Christi LNG Trains 1-3),27.78344605,-97.25817681609722, 2.40 Bcfd ,Cheniere – Corpus Christi LNG Trains 1-3
+"Hackberry, LA",Existing ," 2.15 Bcfd (Sempra–Cameron LNG, Trains 1-3)",29.96455,-93.41822431024417, 2.15 Bcfd ,"Sempra–Cameron LNG, Trains 1-3"
+"Elba Island, GA",Existing ,350 MMcfd (Southern LNG Company Units 1-10),32.0910422,-81.0003893,350 MMcfd ,Southern LNG Company Units 1-10
+"Freeport, TX",Existing , 2.13 Bcfd (Freeport LNG Dev/Freeport LNG Expansion/FLNG  Liquefaction Trains 1-3),28.9541368,-95.3596617, 2.13 Bcfd ,Freeport LNG Dev/Freeport LNG Expansion/FLNG  Liquefaction Trains 1-3
+"Cameron Parish, LA","FERC – APPROVED, UNDER CONSTRUCTION", 1.41 Bcfd (Venture Global Calcasieu Pass) (CP15-550),29.888055,-93.1843025, 1.41 Bcfd ,Venture Global Calcasieu Pass
+"Sabine Pass, TX","FERC – APPROVED, UNDER CONSTRUCTION"," 2.26 Bcfd (ExxonMobil – Golden Pass) (CP14-517, CP20-459)",29.7314117,-93.87535243108366, 2.26 Bcfd ,ExxonMobil – Golden Pass
+"Lake Charles, LA","FERC – APPROVED, NOT UNDER CONSTRUCTION", 2.2 Bcfd (Lake Charles LNG) (CP14-120),30.2072293,-93.2061609, 2.2 Bcfd ,Lake Charles LNG
+"Lake Charles, LA","FERC – APPROVED, NOT UNDER CONSTRUCTION", 1.186 Bcfd (Magnolia LNG) (CP14-347),30.2072293,-93.2061609, 1.186 Bcfd ,Magnolia LNG
+"Hackberry, LA","FERC – APPROVED, NOT UNDER CONSTRUCTION", 1.41 Bcfd (Sempra - Cameron LNG Trains 4 & 5) (CP15-560),29.96455,-93.41822431024417, 1.41 Bcfd ,Sempra - Cameron LNG Trains 4 & 5
+"Calcasieu Parish, LA","FERC – APPROVED, NOT UNDER CONSTRUCTION", 4.0 Bcfd (Driftwood LNG) (CP17-117),30.2232015,-93.3434067, 4.0 Bcfd ,Driftwood LNG
+"Port Arthur, TX","FERC – APPROVED, NOT UNDER CONSTRUCTION", 1.86 Bcfd (Port Arthur LNG Trains 1 & 2) (CP17-20),29.8988618,-93.9288723, 1.86 Bcfd ,Port Arthur LNG Trains 1 & 2
+"Freeport, TX","FERC – APPROVED, NOT UNDER CONSTRUCTION", 0.72 Bcfd (Freeport LNG Dev Train 4) (CP17-470),28.9541368,-95.3596617, 0.72 Bcfd ,Freeport LNG Dev Train 4
+"Pascagoula, MS","FERC – APPROVED, NOT UNDER CONSTRUCTION", 1.5 Bcfd (Gulf LNG Liquefaction) (CP15-521),30.3646795,-88.5585995, 1.5 Bcfd ,Gulf LNG Liquefaction
+"Jacksonville, FL","FERC – APPROVED, NOT UNDER CONSTRUCTION", 0.132 Bcf/d (Eagle LNG Partners) (CP17-41),30.3321838,-81.655651, 0.132 Bcf/d ,Eagle LNG Partners
+"Plaquemines Parish, LA","FERC – APPROVED, NOT UNDER CONSTRUCTION", 3.40 Bcfd (Venture Global Plaquemines)  (CP17-66),29.4291161,-89.5123524, 3.40 Bcfd ,Venture Global Plaquemines
+"Brownsville, TX","FERC – APPROVED, NOT UNDER CONSTRUCTION", 0.55 Bcfd (Texas LNG Brownsville) (CP16-116),25.916283999999997,-97.41935535662694, 0.55 Bcfd ,Texas LNG Brownsville
+"Brownsville, TX","FERC – APPROVED, NOT UNDER CONSTRUCTION", 3.6 Bcfd (Rio Grande LNG – NextDecade) (CP16-454),25.916283999999997,-97.41935535662694, 3.6 Bcfd ,Rio Grande LNG – NextDecade
+"Corpus Christi, TX","FERC – APPROVED, NOT UNDER CONSTRUCTION", 1.86 Bcfd (Cheniere Corpus Christi Stage III) (CP18-512),27.78344605,-97.25817681609722, 1.86 Bcfd ,Cheniere Corpus Christi Stage III
+"Nikiski, AK","FERC – APPROVED, NOT UNDER CONSTRUCTION", 2.63 Bcfd (Alaska Gasline) (CP17-178),60.721058,-151.24620611281358, 2.63 Bcfd ,Alaska Gasline
+Gulf of Mexico,"MARAD/USCG – APPROVED, NOT UNDER CONSTRUCTION ", 1.8 Bcfd (Delfin LNG),25.2834459,-89.9066163, 1.8 Bcfd ,Delfin LNG
+"Cameron Parish, LA",Pending Applications:,"1.18 Bcfd (Commonwealth, LNG) (CP19-502)",29.888055,-93.1843025,1.18 Bcfd ,"Commonwealth, LNG"
+"Port Arthur, TX",Pending Applications:, 1.86 Bcfd (Sempra - Port Arthur LNG Trains 3 & 4) (CP20-55),29.8988618,-93.9288723, 1.86 Bcfd ,Sempra - Port Arthur LNG Trains 3 & 4
+"Cameron Parish, LA",Pending Applications:, 1.45 Bcfd (Venture Global CP2 Blocks 1-9) (CP22-21),29.888055,-93.1843025, 1.45 Bcfd ,Venture Global CP2 Blocks 1-9
+"Cameron Parish, LA",Pending Applications:, .057 Bcfd (Venture Global Calcasieu Pass) (CP22-25),29.888055,-93.1843025, .057 Bcfd ,Venture Global Calcasieu Pass
+"LaFourche Parish, LA",Projects in Pre-filing:,0.65 Bcfd (Port Fourchon LNG) (PF17-9),29.5820155,-90.3964889,0.65 Bcfd ,Port Fourchon LNG
+"Plaquemines Parish, LA",Projects in Pre-filing:, 2.76 Bcfd (Delta LNG - Venture Global) (PF19-4),29.4291161,-89.5123524, 2.76 Bcfd ,Delta LNG - Venture Global
+"Baja California, MX",MEXICO (Projects in advanced planning/development stages), 0.4 Bcfd (Sempra – Energía Costa Azul Phase 1),30.0338923,-115.1425107, 0.4 Bcfd ,Sempra – Energía Costa Azul Phase 1
